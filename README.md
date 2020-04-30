@@ -26,6 +26,7 @@ for prediction purposes you can call the predict function with network weights d
   
   where network is the network description which is available as o/p after network training.
   after training use this code to get network description
+  
   for layer in network:
 	print(layer)
   
